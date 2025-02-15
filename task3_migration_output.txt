@@ -1,0 +1,9 @@
+# Task 3: Database Migration - Expected Log Output
+
+Exporting MySQL database...
+mysqldump: Successfully exported mydb.sql
+
+Importing into PostgreSQL...
+psql: Data imported successfully!
+Row counts verified: 50,000 records migrated.
+Data integrity check: PASSED
